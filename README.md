@@ -3,8 +3,10 @@
 
 ## 视频展示
 
-### [顶部下拉](https://github.com/ke112/custom_pull_refresh_demo/raw/refs/heads/main/保持现在下拉刷新效果.mov)
 
-### [吸顶下拉](https://github.com/ke112/custom_pull_refresh_demo/raw/refs/heads/main/顶部下拉刷新效果.mov)
+### 顶部下拉
+https://github.com/user-attachments/assets/2d4ab7d8-bb8b-4565-a4f4-e2dc11432ef3
 
+### 吸顶下拉
+https://github.com/user-attachments/assets/9809bd48-5dec-4bac-87bb-5ed526fb69ae
 

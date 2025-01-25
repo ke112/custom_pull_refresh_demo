@@ -3,8 +3,8 @@
 
 ## 视频展示
 
-### [顶部下拉](https://github.com/ke112/custom_pull_refresh_demo/raw/refs/heads/main/flutter_application_顶部下拉.zip)
+### [顶部下拉](https://github.com/ke112/custom_pull_refresh_demo/raw/refs/heads/main/保持现在下拉刷新效果.mov)
 
-### [吸顶下拉](https://github.com/ke112/custom_pull_refresh_demo/raw/refs/heads/main/flutter_application_吸顶下拉.zip)
+### [吸顶下拉](https://github.com/ke112/custom_pull_refresh_demo/raw/refs/heads/main/顶部下拉刷新效果.mov)
 
 
